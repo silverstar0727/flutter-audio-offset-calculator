@@ -36,15 +36,6 @@ Before using this package, ensure the following dependencies are set up in your 
     - **FFmpeg**: This package relies on FFmpeg for audio conversion, so ensure it is installed and
       integrated into your environment.
 
-### Installation
-
-Add the following to your pubspec.yaml:
-
-```yaml
-dependencies:
-  audio_offset: ^0.1.0
-```
-
 ### Usage
 
 Here's how you can use the package to compute the offset between two audio files:
