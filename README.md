@@ -5,6 +5,8 @@ particularly useful when synchronizing audio tracks or identifying alignment dif
 sound recordings. The package utilizes features like Mel Frequency Cepstral Coefficients (MFCC) to
 compute correlations and identify the time delay between the two audio inputs.
 
+| [What is the MFCC?](https://brightwon.tistory.com/11)
+
 ## Features
 
 - **Audio Offset Detection**: Find the time offset between two audio files, even when recorded in
